@@ -1,13 +1,12 @@
 {
   "expo": {
-    "name": "my-market",
-    "slug": "my-market",
+    "name": "pronef",
+    "slug": "pronef",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -24,8 +23,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.mindset001.mymarket"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
